@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navigatiebalk {
+    border: 3px solid #000;
+    height: 100px;
+    background-color: #ff0000;
+}
+
+#navigatiebalk img {
+    width: 200px;
+    height: 100px;
+}
+
+#navigatiebalk p {
+    margin-left: 250px;
+    margin-top: -70px;
+    font-size: 25px;
+    color: #fff;
+    font-weight: 100px;
+    background-color: #ff0000;
+}
+
+#new {
+    border: 1px solid #fff;
+    background-color: #000;
+    color: #fff;
+    height: 300px;
+}
+
+.Morbius {
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.upcomming {
+    margin-left: 1310px;
+    margin-top: -280px;
+    font-size: 25px;
+}
+
+#news {
+    height: 300px;
+    width: 1000px;
+    margin-left: 250px;
+    margin-top: -155px;
+}
+
+#soon {
+    margin-left: 1270px;
+    margin-top: 35px;
+    height: 150px;
+    width: 250px;
+}
+
+.films {
+    border: 1px solid #000;
+    height: 250px;
+    width: 124px;
+    margin-left: 15px;
+    margin-top: 15px;
+    float: left;
+    background-color: #ac2000;
+}
+
+.link {
+    color: #000;
+    background-color: #ac2000;
+}
+
+.poster {
+    height: 160px;
+    width: 125px;
+}
+
+.winkelwagen {
+    width: 25px;
+    height: 25px;
+    margin-left: 95px;
+    background-color: #ac2000;
+}
+
+.price {
+    color: #fff;
+    margin-top: -25px;
+    background-color: #ac2000;
+}
+
+#hulk {
+    font-size: 14px;
+}
